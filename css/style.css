@@ -11,16 +11,22 @@
     width: 32.5%;
     padding:40px;
 }
+.cmn_div{
+    text-align: center;
+    padding-top:15px;
+    font-size: 25px;
+    height: 42px;
+    width:244px;
+}
+
 .sign_up{
     background-color: #539C82;
-    height: 59px;
-    width:244px;
+    color: #E4FFF9;
     
 }
 .log_in{
     background-color: #475258;
-    height: 59px;
-    width:244px;
+    color:#A3AEB5;
 }
 
 .p_tag{
@@ -32,7 +38,7 @@
 }
 .cmn_input{
     height: 70px;
-    width:244px;
+    width:242px;
     display:inline-block;
 }
 .set_e_p{
