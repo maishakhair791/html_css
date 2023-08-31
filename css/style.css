@@ -1,0 +1,49 @@
+
+
+
+
+.parent_div{
+    font-family: sans-serif;
+    background-color: #28323B;
+    display: flex;
+    flex-wrap: wrap;
+    height:450px;
+    width: 32.5%;
+    padding:40px;
+}
+.sign_up{
+    background-color: #539C82;
+    height: 59px;
+    width:244px;
+    
+}
+.log_in{
+    background-color: #475258;
+    height: 59px;
+    width:244px;
+}
+
+.p_tag{
+    height: 74px;
+    width:487px;
+    font-size: 35px;
+    text-align: center;
+    color:#F5FCFF;
+}
+.cmn_input{
+    height: 70px;
+    width:244px;
+    display:inline-block;
+}
+.set_e_p{
+    display: block;
+}
+.button{
+
+    height: 62px;
+    width:487px;
+    background-color: #52AD8A;
+    font-size: 40px;
+    font-weight: bold;
+    color:#FFFDF9;
+}
