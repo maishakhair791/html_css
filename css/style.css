@@ -44,6 +44,18 @@
 .set_e_p{
     display: block;
 }
+.input{
+    background-color: #28323B;
+    width: 90%;
+    height: 50%;
+    border: 2px solid #6C767F;
+    
+}
+::placeholder{
+    color: #8D98A0;
+    font-size: 20px;
+    
+}
 .button{
 
     height: 62px;
