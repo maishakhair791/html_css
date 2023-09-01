@@ -53,11 +53,13 @@
     
 }
 ::placeholder{
+    padding-left: 5px;
+
     color: #8D98A0;
     font-size: 20px;
 
 }
-.button{
+#button{
 
     height: 62px;
     width:487px;
