@@ -43,6 +43,7 @@
 }
 .set_e_p{
     display: block;
+    background-color: #52AD8A;
 }
 .input{
     background-color: #28323B;
@@ -54,7 +55,7 @@
 ::placeholder{
     color: #8D98A0;
     font-size: 20px;
-    
+
 }
 .button{
 
